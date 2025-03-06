@@ -10,7 +10,8 @@
 PaulPomogaev/PaulPomogaev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=highcontrast_icons=true)
+[![Josef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ВАШ_USERNAME&theme=highcontrast&show_icons=true)](https://github.com/ВАШ_USERNAME)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_USERNAME&theme=highcontrast&layout=compact)](https://github.com/ВАШ_USERNAME)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
