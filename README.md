@@ -10,11 +10,3 @@
 PaulPomogaev/PaulPomogaev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-| [![A+]()](https://github.com/yourusername) | [![Stars]()](https://github.com/yourusername?tab=repositories) | [![Commits]()](https://github.com/yourusername) |
-|:-:|:-:|:-:|
-| **A+** | **Всего звёзд** | **Коммиты** |
-
-| [![PRs]()](https://github.com/yourusername/pulls) | [![Issues]()](https://github.com/yourusername/issues) | [![Contribs]()](https://github.com/yourusername) |
-|:-:|:-:|:-:|
-| **Пулл-реквесты** | **Ишьюзы** | **Контрибуции** |
