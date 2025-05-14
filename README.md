@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PaulPomogaev
-- 👀 I’m interested in C#, computer hardware, sports pharmacology, sports, reading boks
+- 👀 I’m interested in C#, computer hardware, sports pharmacology, sports, reading books
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on (don`t know yet. I'll answer after learning C#)
 - 📫 How to reach me paulslock1@gmail.com
